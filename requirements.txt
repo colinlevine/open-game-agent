@@ -1,0 +1,17 @@
+# PyAutoGUI MCP Dependencies
+mcp
+openai
+python-dotenv
+pyautogui
+pyscreeze
+Pillow
+fastapi
+uvicorn
+pydantic
+
+# Azure AI Search and Knowledge Graph Dependencies
+azure-search-documents
+azure-identity
+azure-core
+networkx
+requests
